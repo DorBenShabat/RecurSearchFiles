@@ -1,0 +1,15 @@
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\bin\Debug\net6.0\RecursionPractice.exe
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\bin\Debug\net6.0\RecursionPractice.deps.json
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\bin\Debug\net6.0\RecursionPractice.runtimeconfig.json
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\bin\Debug\net6.0\RecursionPractice.dll
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\bin\Debug\net6.0\RecursionPractice.pdb
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\RecursionPractice.csproj.AssemblyReference.cache
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\RecursionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\RecursionPractice.AssemblyInfoInputs.cache
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\RecursionPractice.AssemblyInfo.cs
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\RecursionPractice.csproj.CoreCompileInputs.cache
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\RecursionPractice.dll
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\refint\RecursionPractice.dll
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\RecursionPractice.pdb
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\RecursionPractice.genruntimeconfig.cache
+C:\Users\dorbs\OneDrive\שולחן העבודה\RecursionPractice\RecursionPractice\obj\Debug\net6.0\ref\RecursionPractice.dll
