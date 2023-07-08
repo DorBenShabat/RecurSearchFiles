@@ -19,7 +19,7 @@ The Recursive File Explorer is a C# project aimed at practicing and demonstratin
 
 ## Requirements
 
-- .NET Framework (version X.X or higher)
+- .NET (version 6.0 or higher)
 
 ## Example Usage
 
